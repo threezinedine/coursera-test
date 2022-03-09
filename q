@@ -1,0 +1,30 @@
+[33mcommit 9403f3e7d4da6cd21fc635caafec296082b51719[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: aa627d9 1d56f37
+Author: unknown <threezinedine@gmail.com>
+Date:   Wed Mar 9 22:20:53 2022 +0700
+
+    Merge branch 'main' of https://github.com/threezinedine/coursera-test
+
+[33mcommit aa627d92c02eef1ec3b9b910cf14e17a1e79a008[m
+Author: unknown <threezinedine@gmail.com>
+Date:   Wed Mar 9 22:20:38 2022 +0700
+
+    fix name wrong
+
+[33mcommit 1d56f37981ba320f88cf2ebd34cf435a44f94e94[m
+Author: Nguyễn Thế Thảo <threezinedine@gmail.com>
+Date:   Wed Mar 9 22:12:34 2022 +0700
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit 7343fb1be12a8d117b52da4e8f21b3b0a659b17b[m
+Author: unknown <threezinedine@gmail.com>
+Date:   Wed Mar 9 22:11:43 2022 +0700
+
+    add a basic index
+
+[33mcommit 1a1195de9d1ccae8837633cdca08013557f84369[m
+Author: Nguyễn Thế Thảo <threezinedine@gmail.com>
+Date:   Wed Mar 9 22:03:43 2022 +0700
+
+    Initial commit
